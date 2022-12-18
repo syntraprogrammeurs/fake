@@ -39,6 +39,26 @@
       "date": "July 04 2021",
       "time": "09:00",
       "imagePath": "graspop.png"
+    },
+    {
+      "id": 5,
+      "category": "concert",
+      "title": "Land of Love",
+      "description": "Festival",
+      "location": "Torhout",
+      "date": "July 22 2021",
+      "time": "09:00",
+      "imagePath": "landoflove.png"
+    },
+    {
+      "id":6,
+      "category":"concert",
+      "title": "Suikerrock",
+      "description": "Festival Rock",
+      "location": "Dessel",
+      "date": "July 04 2021",
+      "time": "09:00",
+      "imagePath": "suikerrock.png"
     }
   ]
 }
