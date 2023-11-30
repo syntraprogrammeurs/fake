@@ -8,7 +8,8 @@
       "location": "Werchter",
       "date": "4-7 juli 2024",
       "time": "12:00",
-      "organisator": "Noël Steen"
+      "organisator": "Noël Steen",
+      "logo": "https://www.nine32.nl/wp-content/uploads/2022/06/rock-werchter-RW-678x381.jpg"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "location": "Kiewit, Hasselt",
       "date": "15-18 augustus 2024",
       "time": "11:00",
-      "organisator": "Chokri Mahassine"
+      "organisator": "Chokri Mahassine",
+      "logo":"https://www.pukkelpop.be/assets/default/dist/images/pkp24_social_share.97372ec8.jpg"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "location": "Boom",
       "date": "19-21 juli en 26-28 juli 2024",
       "time": "11:00",
-      "organisator": "Weareone"
+      "organisator": "Weareone",
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo-tomorrowland.jpg/800px-Logo-tomorrowland.jpg"
     }
   ]
 }
