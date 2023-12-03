@@ -54,17 +54,7 @@
       "time": "12:00",
       "organisator": "Bob Schoenmaekers",
       "logo": "https://photos.bandsintown.com/large/10015469.jpeg"
-    },
-    {
-      "id": 6,
-      "category": "Indie",
-      "title": "Leffingeleuren",
-      "description": "Een charmant muziekfestival dat zich focust op indie en alternatieve muziek, gehouden in het pittoreske dorpje Leffinge.",
-      "location": "Leffinge",
-      "date": "10-12 september 2024",
-      "time": "13:00",
-      "organisator": "Concertorganisatie LeffingeLeuren",
-      "logo":"https://festileaks.com/wp-content/uploads/2022/04/277574643_10158806990216824_366759999484570359_n.jpg"
     }
+
   ]
 }
