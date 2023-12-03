@@ -4,11 +4,12 @@
       "id": 1,
       "category": "Rock",
       "title": "Rock Werchter",
-      "description": "Rock Werchter is een gerenommeerd muziekfestival dat jaarlijks plaatsvindt in Werchter, België",
+      "description": "Rock Werchter is een gerenommeerd muziekfestival dat jaarlijks plaatsvindt in Werchter, België!",
       "location": "Werchter",
       "date": "4-7 juli 2024",
       "time": "12:00",
-      "organisator": "Noël Steen"
+      "organisator": "Noël Steen",
+      "logo": "https://www.nine32.nl/wp-content/uploads/2022/06/rock-werchter-RW-678x381.jpg"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "location": "Kiewit, Hasselt",
       "date": "15-18 augustus 2024",
       "time": "11:00",
-      "organisator": "Chokri Mahassine"
+      "organisator": "Chokri Mahassine",
+      "logo":"https://www.pukkelpop.be/assets/default/dist/images/pkp24_social_share.97372ec8.jpg"
     },
     {
       "id": 3,
@@ -28,7 +30,41 @@
       "location": "Boom",
       "date": "19-21 juli en 26-28 juli 2024",
       "time": "11:00",
-      "organisator": "Weareone"
+      "organisator": "Weareone",
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo-tomorrowland.jpg/800px-Logo-tomorrowland.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Jazz",
+      "title": "Gent Jazz Festival",
+      "description": "Een jaarlijks jazzfestival dat plaatsvindt in de historische stad Gent, bekend om zijn eclectische line-up die zowel jazzlegendes als hedendaagse artiesten omvat.",
+      "location": "Gent",
+      "date": "8-11 juli 2024",
+      "time": "14:00",
+      "organisator": "Duvel Moortgat",
+      "logo": "https://www.carnifest.com/wp-content/uploads/2021/10/Jazz.be-photo-Frederik_Declercq.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Rock",
+      "title": "Graspop Metal Meeting",
+      "description": "Een van de grootste heavy metal festivals in Europa, dat jaarlijks duizenden metal liefhebbers naar België trekt.",
+      "location": "Dessel",
+      "date": "16-19 juni 2024",
+      "time": "12:00",
+      "organisator": "Bob Schoenmaekers",
+      "logo": "https://photos.bandsintown.com/large/10015469.jpeg"
+    },
+    {
+      "id": 6,
+      "category": "Indie",
+      "title": "Leffingeleuren",
+      "description": "Een charmant muziekfestival dat zich focust op indie en alternatieve muziek, gehouden in het pittoreske dorpje Leffinge.",
+      "location": "Leffinge",
+      "date": "10-12 september 2024",
+      "time": "13:00",
+      "organisator": "Concertorganisatie LeffingeLeuren",
+      "logo":"https://festileaks.com/wp-content/uploads/2022/04/277574643_10158806990216824_366759999484570359_n.jpg"
     }
   ]
 }
